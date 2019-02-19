@@ -270,7 +270,8 @@ textarea{
 
 @media(max-width:1020px){
     .section2 {
-        flex-direction: column;
+        /* flex-direction: column;  */
+        flex-direction: row;
     }
 
 }
